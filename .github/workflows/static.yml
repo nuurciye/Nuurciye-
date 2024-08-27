@@ -64,13 +64,13 @@
 <body>
 
     <header>
-        <h1>Shirkadayda</h1>
+        <h1>Daryelsolutions</h1>
         <p>Kusoo dhawoow boggayga shakhsiyeed!</p>
     </header>
 
     <section id="bio">
         <h2>Nagu Saabsan</h2>
-        <p>Shirkaddayadu waa mid holwadeeda aad ugu xeel dheer oo ku takhasustay qabashada howlaha kala duwan ee aad u baahan tahay. Waxaan ku faanaynaa inaan bixino adeegyo tayo sare leh oo dhamaystiran, si aan u daboolno baahiyaha macaamiisheena dhammaan dhinacyada shaqooyinka kala duwan.</p>
+        <p>Shirkaddayadu waa mid howleheda aad ugu xeel dheer oo ku takhasustay qabashada howlaha kala duwan ee aad u baahan tahay. Waxaan ku faanaynaa inaan bixino adeegyo tayo sare leh oo dhamaystiran, si aan u daboolno baahiyaha macaamiisheena dhammaan dhinacyada shaqooyinka kala duwan.</p>
     </section>
 
     <section id="portfolio">
@@ -92,7 +92,7 @@
     <section id="contact">
         <h2>Nala Soo Xiriir</h2>
         <p>Waan kugu soo dhaweynaynaa inaad nala soo xiriirto ama aad nagala xidhiidho baraha bulshada!</p>
-        <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+        <p>Email: <a href="mailto:youremail@example.com">daryel.solutions@info</a></p>
         <p>
             <a href="https://www.linkedin.com">LinkedIn</a> |
             <a href="https://www.twitter.com">Twitter</a> |
