@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Webpage</title>
+    <title>Shirkadayda</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -64,34 +64,34 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
-        <p>Welcome to my personal webpage!</p>
+        <h1>Shirkadayda</h1>
+        <p>Kusoo dhawoow boggayga shakhsiyeed!</p>
     </header>
 
     <section id="bio">
-        <h2>About Me</h2>
-        <p>Hello! I'm a [Your Profession] with a passion for [Your Interests]. I enjoy working on projects that involve [Your Skills].</p>
+        <h2>Nagu Saabsan</h2>
+        <p>Shirkaddayadu waa mid holwadeeda aad ugu xeel dheer oo ku takhasustay qabashada howlaha kala duwan ee aad u baahan tahay. Waxaan ku faanaynaa inaan bixino adeegyo tayo sare leh oo dhamaystiran, si aan u daboolno baahiyaha macaamiisheena dhammaan dhinacyada shaqooyinka kala duwan.</p>
     </section>
 
     <section id="portfolio">
-        <h2>Portfolio</h2>
+        <h2>Mashaariicdayada</h2>
         <div class="project">
-            <h3>Project 1</h3>
-            <p>Description of project 1.</p>
+            <h3>Mashruuca 1</h3>
+            <p>Sharaxaadda mashruuca 1.</p>
         </div>
         <div class="project">
-            <h3>Project 2</h3>
-            <p>Description of project 2.</p>
+            <h3>Mashruuca 2</h3>
+            <p>Sharaxaadda mashruuca 2.</p>
         </div>
         <div class="project">
-            <h3>Project 3</h3>
-            <p>Description of project 3.</p>
+            <h3>Mashruuca 3</h3>
+            <p>Sharaxaadda mashruuca 3.</p>
         </div>
     </section>
 
     <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Feel free to reach out via email or connect with me on social media!</p>
+        <h2>Nala Soo Xiriir</h2>
+        <p>Waan kugu soo dhaweynaynaa inaad nala soo xiriirto ama aad nagala xidhiidho baraha bulshada!</p>
         <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
         <p>
             <a href="https://www.linkedin.com">LinkedIn</a> |
@@ -101,7 +101,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Shirkadayda. Dhammaan xuquuqaha way dhowrsan yihiin.</p>
     </footer>
 
 </body>
